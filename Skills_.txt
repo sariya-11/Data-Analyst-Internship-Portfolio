@@ -1,0 +1,13 @@
+Technical Skills:
+
+1. Python
+2. Pandas
+3. SQL
+4. Power BI
+5. Data Visualization
+
+Soft Skills:
+
+1. Problem Solving
+2. Communication
+3. Business Thinking

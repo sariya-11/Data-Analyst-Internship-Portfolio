@@ -1,0 +1,11 @@
+During this internship, I learned:
+
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. SQL
+4. Dashboard Building
+5. Hypothesis Testing
+6. Business Storytelling
+7. Portfolio Building
+
+This internship improved my analytical and technical skills.
